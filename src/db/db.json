@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung M40",
+      "color": "black",
+      "price": 20000,
+      "category": "mobile",
+      "brand": "Samsung",
+      "images":"https://www.shutterstock.com/image-photo/new-york-usa-november-05-260nw-749782414.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Samsung F20",
+      "color": "white",
+      "price": 13000,
+      "category": "mobile",
+      "brand": "Samsung",
+      "images":"https://5.imimg.com/data5/RV/FT/GLADMIN-27370064/samsung-galaxy-j-mobile-phone-500x500.png"
+    },
+    {
+      "id": 3,
+      "name": "Tshirt",
+      "color": "black and White",
+      "price": 500,
+      "category": "Cloths",
+      "brand": "NIKE",
+      "images":"https://5.imimg.com/data5/XS/DT/MY-3747740/mens-shirts-500x500.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Shoe",
+      "color": "red black",
+      "price": 1500,
+      "category": "Wear",
+      "brand": "Nike",
+      "images" : "https://m.media-amazon.com/images/I/61utX8kBDlL._UL1100_.jpg"
+    },
+    {
+      "id": 5,
+      "name": "I phone",
+      "color": "red",
+      "price": 130000,
+      "category": "mobile",
+      "brand": "apple",
+      "images":"https://www.apple.com/newsroom/images/product/iphone/standard/Apple_iphone_11-rosette-family-lineup-091019_big.jpg.large.jpg"
+    }
+    
+  ]
+}

@@ -1,0 +1,30 @@
+img
+{
+    width: 150px;
+    height: 150px;
+}
+
+
+.product-container
+{
+    margin-left: 75px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-item
+{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px ;
+    margin: 10px;
+}
+
+button
+{
+    color: lightgreen;
+    background-color: black;
+    border-radius: 5px;
+    margin: 2px;
+}
+
